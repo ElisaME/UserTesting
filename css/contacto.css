@@ -1,0 +1,30 @@
+body{
+	background-image: url("../image/large.jpg");
+	background-repeat: repeat;
+	background-size: cover;
+}
+.formato{
+	background-color: #fff;
+	border-top: 5px solid #0D94CF;
+	margin: 5% auto;
+	width: 60%;
+	padding: 2%;
+}
+h1{
+	border-bottom: 1px solid black;
+}
+.text-red{
+	color: red;
+}
+.inline{
+	display: inline;
+}
+.mt-2{
+	margin-top: 2%;
+}
+.mb-2{
+	margin-bottom: 2%;
+}
+.form{
+	width: 50%;
+}
